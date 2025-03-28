@@ -1,0 +1,18 @@
+[
+    {
+      "nombre": "Fundas",
+      "precio": "7000",
+      "cantidad": "30"
+    },
+    {
+      "nombre": "VidriosTemplados",
+      "precio": "3500",
+      "cantidad": "250"
+    },
+    {
+      "nombre": "Iphone13",
+      "precio": "500000",
+      "cantidad": "20"
+    }
+    
+  ]
