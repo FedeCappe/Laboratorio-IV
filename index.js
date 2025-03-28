@@ -18,7 +18,7 @@ const argv = yargs
   })
   .argv;
 
-// Pedir los datos del producto al usuario
+
 function pedirDatos() {
   rl.question('Producto: ', (producto) => {
     rl.question('Precio: ', (precio) => {
